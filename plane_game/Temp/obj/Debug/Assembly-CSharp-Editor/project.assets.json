@@ -24,6 +24,20 @@
         "runtime": {
           "bin/placeholder/ALP8310_ControllerGlobal.Editor.dll": {}
         }
+      },
+      "Assembly-CSharp/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "ALP8310_ControllerGlobal": "1.0.0",
+          "ALP8310_ControllerGlobal.Editor": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Assembly-CSharp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assembly-CSharp.dll": {}
+        }
       }
     }
   },
@@ -37,12 +51,18 @@
       "type": "project",
       "path": "ALP8310_ControllerGlobal.Editor.csproj",
       "msbuildProject": "ALP8310_ControllerGlobal.Editor.csproj"
+    },
+    "Assembly-CSharp/1.0.0": {
+      "type": "project",
+      "path": "Assembly-CSharp.csproj",
+      "msbuildProject": "Assembly-CSharp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
       "ALP8310_ControllerGlobal >= 1.0.0",
-      "ALP8310_ControllerGlobal.Editor >= 1.0.0"
+      "ALP8310_ControllerGlobal.Editor >= 1.0.0",
+      "Assembly-CSharp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -75,6 +95,9 @@
             },
             "/Users/Yvan/Documents/PlaneGame/plane_game/ALP8310_ControllerGlobal.Editor.csproj": {
               "projectPath": "/Users/Yvan/Documents/PlaneGame/plane_game/ALP8310_ControllerGlobal.Editor.csproj"
+            },
+            "/Users/Yvan/Documents/PlaneGame/plane_game/Assembly-CSharp.csproj": {
+              "projectPath": "/Users/Yvan/Documents/PlaneGame/plane_game/Assembly-CSharp.csproj"
             }
           }
         }

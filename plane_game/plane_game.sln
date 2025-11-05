@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{AE80D3FB-A150-6A44-04DD-413A8EDF3AE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F1B19E69-F131-F502-0F3A-B0DEA0A41519}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALP8310_ControllerGlobal", "ALP8310_ControllerGlobal.csproj", "{E9766198-DA8F-FBBA-3F9D-0AA4FCC3EBCA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALP8310_ControllerGlobal.Editor", "ALP8310_ControllerGlobal.Editor.csproj", "{83718DD8-F154-3D86-21AA-C6B1863FD801}"
@@ -17,6 +19,10 @@ Global
 		{AE80D3FB-A150-6A44-04DD-413A8EDF3AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE80D3FB-A150-6A44-04DD-413A8EDF3AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE80D3FB-A150-6A44-04DD-413A8EDF3AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B19E69-F131-F502-0F3A-B0DEA0A41519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B19E69-F131-F502-0F3A-B0DEA0A41519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B19E69-F131-F502-0F3A-B0DEA0A41519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B19E69-F131-F502-0F3A-B0DEA0A41519}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E9766198-DA8F-FBBA-3F9D-0AA4FCC3EBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E9766198-DA8F-FBBA-3F9D-0AA4FCC3EBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9766198-DA8F-FBBA-3F9D-0AA4FCC3EBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
